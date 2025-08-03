@@ -1,7 +1,7 @@
 A simple yet nostalgic Retro Snake Game built with Rust. Inspired by the classic snake game we all grew up playing, this version brings back the retro feel.
 
 ## 🎯Features
-# 🕹 Classic Gameplay# – Eat food to grow your snake.
+# 🕹 Classic Gameplay – Eat food to grow your snake.
 
 💥 Game Over on self-collision or hitting walls (optional free-bound mode).
 
